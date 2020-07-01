@@ -4,10 +4,10 @@ The server side has been built in PHP with Slim framework, which provides a fast
 
 The routers used to access the resources via URI are:
 
-get('/totalusers/get/room/:room','getTotalUsersInRoom');"http://localhost:1234/ajay/api/totalusers/get/room/"; 
-get('/rooms/get/validity/:room','getRoomValidityByDate');"http://localhost:1234/ajay/api/rooms/get/validity/"; 
-get('/messages/get/room/:room','getMessagesFromRoom');"http://localhost:1234/ajay/api/messages/get/room/";
-post('/messages/post', 'postMessage');"http://localhost:1234/ajay/api/messages/post";
+get('/totalusers/get/room/:room','getTotalUsersInRoom');
+get('/rooms/get/validity/:room','getRoomValidityByDate');
+get('/messages/get/room/:room','getMessagesFromRoom');
+post('/messages/post', 'postMessage');
 
 The client has been built using C#. 
 
