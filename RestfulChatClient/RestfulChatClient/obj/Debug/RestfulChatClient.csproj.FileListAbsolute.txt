@@ -1,0 +1,22 @@
+F:\test\assignment3\RestfulChatClient\RestfulChatClient\bin\Debug\RestfulChatClient.exe.config
+F:\test\assignment3\RestfulChatClient\RestfulChatClient\bin\Debug\RestfulChatClient.exe
+F:\test\assignment3\RestfulChatClient\RestfulChatClient\bin\Debug\RestfulChatClient.pdb
+F:\test\assignment3\RestfulChatClient\RestfulChatClient\bin\Debug\Newtonsoft.Json.dll
+F:\test\assignment3\RestfulChatClient\RestfulChatClient\bin\Debug\Newtonsoft.Json.xml
+F:\test\assignment3\RestfulChatClient\RestfulChatClient\obj\Debug\RestfulChatClient.csprojResolveAssemblyReference.cache
+F:\test\assignment3\RestfulChatClient\RestfulChatClient\obj\Debug\RestfulChatClient.Form1.resources
+F:\test\assignment3\RestfulChatClient\RestfulChatClient\obj\Debug\RestfulChatClient.Properties.Resources.resources
+F:\test\assignment3\RestfulChatClient\RestfulChatClient\obj\Debug\RestfulChatClient.csproj.GenerateResource.Cache
+F:\test\assignment3\RestfulChatClient\RestfulChatClient\obj\Debug\RestfulChatClient.exe
+F:\test\assignment3\RestfulChatClient\RestfulChatClient\obj\Debug\RestfulChatClient.pdb
+F:\CMPT 842 -Assignment\assignment3\RestfulChatClient\RestfulChatClient\bin\Debug\RestfulChatClient.exe.config
+F:\CMPT 842 -Assignment\assignment3\RestfulChatClient\RestfulChatClient\obj\Debug\RestfulChatClient.exe
+F:\CMPT 842 -Assignment\assignment3\RestfulChatClient\RestfulChatClient\obj\Debug\RestfulChatClient.pdb
+F:\CMPT 842 -Assignment\assignment3\RestfulChatClient\RestfulChatClient\bin\Debug\RestfulChatClient.exe
+F:\CMPT 842 -Assignment\assignment3\RestfulChatClient\RestfulChatClient\bin\Debug\RestfulChatClient.pdb
+F:\CMPT 842 -Assignment\assignment3\RestfulChatClient\RestfulChatClient\bin\Debug\Newtonsoft.Json.dll
+F:\CMPT 842 -Assignment\assignment3\RestfulChatClient\RestfulChatClient\bin\Debug\Newtonsoft.Json.xml
+F:\CMPT 842 -Assignment\assignment3\RestfulChatClient\RestfulChatClient\obj\Debug\RestfulChatClient.csprojResolveAssemblyReference.cache
+F:\CMPT 842 -Assignment\assignment3\RestfulChatClient\RestfulChatClient\obj\Debug\RestfulChatClient.Form1.resources
+F:\CMPT 842 -Assignment\assignment3\RestfulChatClient\RestfulChatClient\obj\Debug\RestfulChatClient.Properties.Resources.resources
+F:\CMPT 842 -Assignment\assignment3\RestfulChatClient\RestfulChatClient\obj\Debug\RestfulChatClient.csproj.GenerateResource.Cache
