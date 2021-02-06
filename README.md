@@ -1,5 +1,6 @@
 # kurakaniapp -> chat application with REST web services
 
+Kurakani means Chatting! So, this is a chat application built using REST Web Services.
 The server side has been built in PHP with Slim framework, which provides a fast and powerful router that maps route callbacks to specific HTTP request methods and URIs.
 
 The routers used to access the resources via URI are:
